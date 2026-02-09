@@ -6,7 +6,7 @@ This project presents an exploratory data analysis (EDA) of crime and arrest dat
 
 ## Team Members
 - [Ioanna Birmpili](https://github.com/ibirbili) 
-- [Areti Krontiri]()  
+- [Areti Krontiri](https://github.com/skynet-commit)  
 - [Antonis Dagkalidis](https://github.com/adagk)  
 
 ---
